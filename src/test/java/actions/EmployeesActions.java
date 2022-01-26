@@ -8,6 +8,8 @@ public class EmployeesActions {
 
     EmployeesElements employeesElements = new EmployeesElements();
 
+    //Modificar la ruta absoluta donde tengas este proyecto
+
     public void openEmployees() {
         open("C:\\Users\\javier.toribio\\IdeaProjects\\Project_List_Employees\\EmployeesWeb\\ui-test-assessment\\employees.html");
     }
