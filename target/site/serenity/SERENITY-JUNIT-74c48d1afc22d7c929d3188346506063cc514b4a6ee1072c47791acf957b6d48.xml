@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="List of employees" skipped="0" tests="2" time="5.41" timestamp="2022-01-26 11:29:22"><testcase name="Generate a list of all employees"/><testcase name="generate a list of male employees"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="List of employees" skipped="0" tests="1" time="5.8" timestamp="2022-01-30 08:56:07"><testcase name="Generate a list of all employees"/></testsuite>

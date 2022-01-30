@@ -40,6 +40,11 @@
             <version>${selenide.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-simple</artifactId>
+            <version>1.7.12</version>
+        </dependency>
         <!--        Maven compiler-->
         <dependency>
             <groupId>org.apache.maven.plugins</groupId>
